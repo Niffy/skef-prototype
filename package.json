@@ -1,0 +1,19 @@
+{
+  "name": "skef-prototype",
+  "version": "1.0.0",
+  "description": "Prototype for a remote job scheduler",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Niffy/skef-prototype.git"
+  },
+  "author": "Paul Robinson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Niffy/skef-prototype/issues"
+  },
+  "homepage": "https://github.com/Niffy/skef-prototype#readme"
+}
