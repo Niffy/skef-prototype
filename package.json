@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/Niffy/skef-prototype/issues"
   },
-  "homepage": "https://github.com/Niffy/skef-prototype#readme"
+  "homepage": "https://github.com/Niffy/skef-prototype#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "sequelize": "^6.3.5"
+  }
 }
